@@ -2,7 +2,7 @@
 
 A Links page for Online Semesters of IISER Pune
 
-Example Website: https://thereconpilot.github.io/iiserp-sem6
+Example Website: https://adch99.github.io/jan-2022
 
 This project is a template website for hosting the various links that
 are used during an online semester. It's a fairly simple layout and
